@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Birhan A Meliketsadik</h1>
-<h3 align="center">Software Engineer | Machine Learning Engineer</h3>
+<h3 align="center">Software Engineer | ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birhanachalew&label=Profile%20views&color=0e75b6&style=flat" alt="birhanachalew" /> </p>
 
